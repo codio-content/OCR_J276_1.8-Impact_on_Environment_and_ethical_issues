@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "9e740476-4dc2-75ab-fc7e-1b2e9cafd41d",
+   "title": "The impact on the environment and ethical issues ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-impact-on-the-environment-and-ethical-issues--9e74.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dda9c490-2a7d-71d0-1752-3af61a15f222",
+   "title": "The impact of computer science technologies",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-impact-of-computer-science-technologies-dda9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7321effe-c2f3-8dc2-1840-d670355c40ce",
+   "title": "Ethical and legal issues",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-and-legal-issues-7321.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "af4d29f3-55bd-e119-c5b9-fcc0034c2987",
+   "title": "The environmental impact of computer science",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-environmental-impact-of-computer-science-af4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "de03f630-4ecb-1d73-8b7d-e1b441fdb82d",
+   "title": "Positive effects",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Positive-effects-de03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3bac38a4-5880-77f3-d145-d5c085bae31e",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-3bac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2b649af8-acf6-ea06-c1ad-06b5fd037426",
+   "title": "Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-2b64.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
