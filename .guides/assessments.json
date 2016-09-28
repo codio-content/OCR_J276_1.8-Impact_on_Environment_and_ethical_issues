@@ -8,22 +8,13 @@
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. \nEthics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\nComputer science technology affects the environment as large amounts of <<<electricity>>> are consumed in <<<manufacturing>>> and running it. Large amounts are also consumed for <<<data>>> storage in large online centres.\nWhen the devices are thrown away they create <<<e-waste>>> when they are recycled and <<<harmful>>> substances such as <<<lead>>> are released into the environment.\nThe technology can also help the environment by <<<monitoring>>> climate change and helping to find ways of preventing it by the use of computer <<<models>>>.\nComputers can also be used to design and produce devices to produce electricity from natural resources such as wind and <<<wave>>> power.",
+   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. \nEthics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n",
    "tokens": {
     "blank": [
      "morally",
      "va\u001flues",
      "should",
-     "must",
-     "electricity",
-     "manufacturing",
-     "data",
-     "e-waste",
-     "harmful",
-     "lead",
-     "monitoring",
-     "models",
-     "wave"
+     "must"
     ],
     "text": [
      "Behaving ethically means acting ",
@@ -34,25 +25,91 @@
      0,
      " be followed but laws describe ones that ",
      0,
-     " be followed.\nComputer science technology affects the environment as large amounts of ",
+     " be followed.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1820874106",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computer science technology affects the environment as large amounts of <<<electricity>>> are consumed in <<<manufacturing>>> and running it. Large amounts are also consumed for <<<data>>> storage in large online centres.\n",
+   "tokens": {
+    "blank": [
+     "electricity",
+     "manufacturing",
+     "data"
+    ],
+    "text": [
+     "Computer science technology affects the environment as large amounts of ",
      0,
      " are consumed in ",
      0,
      " and running it. Large amounts are also consumed for ",
      0,
-     " storage in large online centres.\nWhen the devices are thrown away they create ",
+     " storage in large online centres.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1286537111",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "When the devices are thrown away they create <<<e-waste>>> when they are recycled and <<<harmful>>> substances such as <<<lead>>> are released into the environment.\n",
+   "tokens": {
+    "blank": [
+     "e-waste",
+     "harmful",
+     "lead"
+    ],
+    "text": [
+     "When the devices are thrown away they create ",
      0,
      " when they are recycled and ",
      0,
      " substances such as ",
      0,
-     " are released into the environment.\nThe technology can also help the environment by ",
+     " are released into the environment.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3435367364",
+  "source": {
+   "name": "Question 4",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The technology can also help the environment by <<<monitoring>>> climate change and helping to find ways of preventing it by the use of computer <<<models>>>.Computers can also be used to design and produce devices to produce electricity from natural resources such as wind and <<<wave>>> power.\n",
+   "tokens": {
+    "blank": [
+     "monitoring",
+     "models",
+     "wave"
+    ],
+    "text": [
+     "The technology can also help the environment by ",
      0,
      " climate change and helping to find ways of preventing it by the use of computer ",
      0,
-     ".\nComputers can also be used to design and produce devices to produce electricity from natural resources such as wind and ",
+     ".Computers can also be used to design and produce devices to produce electricity from natural resources such as wind and ",
      0,
-     " power."
+     " power.\n"
     ]
    }
   }
