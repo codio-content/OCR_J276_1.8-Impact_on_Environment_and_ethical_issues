@@ -2,7 +2,7 @@ Now take a look at the following questions and see how much you have learned.
 {Check It!|assessment}(fill-in-the-blanks-3976400011)
 |||guidance
 # Solution
-Behaving ethically means acting **morally** in ways that individuals and societies think of as reflecting good **values**. 
+Behaving ethically means acting **morally** in ways that individuals and societies think of as reflecting good **values**. 
 Ethics describes guidelines that **should** be followed but laws describe ones that **must** be followed.
 |||
 {Check It!|assessment}(fill-in-the-blanks-1820874106)

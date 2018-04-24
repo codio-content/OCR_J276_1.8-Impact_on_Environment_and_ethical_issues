@@ -5,21 +5,26 @@
   "source": {
    "name": "Question1",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. \nEthics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n",
+   "learningObjectives": "",
+   "text": "Behaving ethically means acting <<<morally>>> in ways that individuals and societies think of as reflecting good <<<values>>>. \nEthics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n",
    "tokens": {
     "blank": [
      "morally",
-     "va\u001flues",
+     "values",
      "should",
      "must"
     ],
     "text": [
      "Behaving ethically means acting ",
      0,
-     " in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good ",
+     " in ways that individuals and societies think of as reflecting good ",
      0,
      ". \nEthics describes guidelines that ",
      0,
